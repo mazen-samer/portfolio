@@ -206,7 +206,7 @@ const projects = [
   {
     name: "Level Shaila & Abaya Store",
     description:
-      "As a freelancer, I developed Level Shaila & Abaya Store using React.js, crafting a bespoke UI with vanilla React and CSS, and implementing essential store features including a cart system and pagination for seamless browsing.",
+      "As a freelancer, I developed Level Shaila & Abaya Store using React.js, crafting a bespoke UI with vanilla React and CSS, and implementing essential store features including a cart system and pagination for seamless browsing. Check the live website at github!",
     tags: [
       {
         name: "react",
