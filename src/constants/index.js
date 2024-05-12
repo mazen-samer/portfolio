@@ -131,7 +131,7 @@ const experiences = [
     company_name: "Dumoo Al Farah Store",
     icon: shopify,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "June 2023 - Present",
     points: [
       "Developed an e-commerce website using Shopify for this store.",
       "Customized Shopify themes and templates to create a unique and visually appealing online store",
